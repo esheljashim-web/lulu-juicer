@@ -1,0 +1,123 @@
+date,label_as_written,normalized_label,amount_qar
+2026-11-01,Bakery,Bakery,129
+2026-11-01,Rawabi,Rawabi,853
+2026-11-01,Family,Family,85
+2026-11-01,Store,Store,10
+2026-11-01,Salary (name unclear),SALARY: Salary (name unclear),400
+2026-11-01,Basheer salary,SALARY: Basheer,500
+2026-11-01,PT,PT,24
+2026-11-02,Rawabi,Rawabi,835
+2026-11-02,Store,Store,15
+2026-11-02,Firdous,Firdous,562
+2026-11-02,PT,PT,16
+2026-11-03,Bread,Bread,224
+2026-11-03,PT,PT,50
+2026-11-03,Royal Pack,Royal Pack,303
+2026-11-03,Rawabi,Rawabi,460
+2026-11-03,Store,Store,20
+2026-11-03,Mayonnaise,Mayonnaise,200
+2026-11-04,Bakery,Bakery,155
+2026-11-04,Rawabi,Rawabi,610
+2026-11-04,Chips,Chips,450
+2026-11-04,PT,PT,20
+2026-11-04,Tissue,Tissue,50
+2026-11-04,Store,Store,10
+2026-11-04,Mayonnaise,Mayonnaise,300
+2026-11-05,Bread,Bread,237
+2026-11-05,Garmet,Garmet,225
+2026-11-05,Beef keema,Beef keema,253
+2026-11-05,Rawabi,Rawabi,613
+2026-11-05,Store,Store,25
+2026-11-05,Family,Family,170
+2026-11-06,Mayonnaise,Mayonnaise,1026
+2026-11-06,Family,Family,66
+2026-11-06,Marwa,Marwa,15
+2026-11-06,Item unclear,Item unclear,20
+2026-11-06,Family,Family,119
+2026-11-06,PT,PT,20
+2026-11-07,Bakery,Bakery,93
+2026-11-07,Family,Family,42
+2026-11-07,Sulthan Plastic,Sulthan,116
+2026-11-07,Royal Pack,Royal Pack,265
+2026-11-07,Firdous,Firdous,195
+2026-11-07,Store,Store,10
+2026-11-07,Rawabi,Rawabi,350
+2026-11-08,Rawabi,Rawabi,440
+2026-11-08,Bakery,Bakery,132
+2026-11-08,Water,Water,215
+2026-11-08,Rawabi,Rawabi,249
+2026-11-09,Bakery,Bakery,130
+2026-11-09,Rawabi,Rawabi,400
+2026-11-09,Firdous,Firdous,314
+2026-11-09,Samosa,Samosa,184
+2026-11-09,Family,Family,180
+2026-11-09,Bike repair,Bike repair,350
+2026-11-10,Bakery,Bakery,150
+2026-11-10,Baladna,Baladna,264
+2026-11-10,Rawabi,Rawabi,577
+2026-11-10,PT,PT,45
+2026-11-10,Royal Pack,Royal Pack,228
+2026-11-10,Bike repair,Bike repair,200
+2026-11-10,Store,Store,10
+2026-11-11,Bakery,Bakery,171
+2026-11-11,Rawabi,Rawabi,739
+2026-11-11,Family,Family,63
+2026-11-11,Zinger,Zinger,273
+2026-11-11,PT,PT,15
+2026-11-11,Bike repair,Bike repair,250
+2026-11-12,Bakery,Bakery,267
+2026-11-12,Rawabi,Rawabi,722
+2026-11-12,Firdous,Firdous,274
+2026-11-12,Store,Store,30
+2026-11-12,PT,PT,14
+2026-11-12,Chips,Chips,290
+2026-11-13,Tissue,Tissue,50
+2026-11-13,Store,Store,10
+2026-11-13,Family,Family,220
+2026-11-13,PT,PT,20
+2026-11-13,Rawabi,Rawabi,1040
+2026-11-14,Bread,Bread,78
+2026-11-14,Chips,Chips,470
+2026-11-14,Rawabi,Rawabi,265
+2026-11-14,Royal Pack,Royal Pack,122
+2026-11-14,PT,PT,15
+2026-11-14,Mijan salary,SALARY: Mijan,500
+2026-11-15,Bakery,Bakery,119
+2026-11-15,Rawabi,Rawabi,907
+2026-11-15,Royal Pack,Royal Pack,208
+2026-11-15,Store,Store,15
+2026-11-15,PT,PT,15
+2026-11-15,Mijan salary,SALARY: Mijan,400
+2026-11-16,Bakery,Bakery,157
+2026-11-16,Rawabi,Rawabi,730
+2026-11-16,Garmet,Garmet,376
+2026-11-16,Store,Store,30
+2026-11-16,Family,Family,12
+2026-11-16,Mijan salary,SALARY: Mijan,200
+2026-11-17,Bread,Bread,145
+2026-11-17,Rawabi,Rawabi,415
+2026-11-17,Emdadco (name unclear),Emdadco (name unclear),300
+2026-11-17,Garmet,Garmet,60
+2026-11-17,Sulthan,Sulthan,115
+2026-11-17,PT,PT,24
+2026-11-17,Store,Store,20
+2026-11-17,A/C repair,A/C repair,260
+2026-11-17,Mijan salary,SALARY: Mijan,500
+2026-11-18,Bakery,Bakery,127
+2026-11-18,PT,PT,17
+2026-11-18,Rawabi,Rawabi,836
+2026-11-18,Firdous,Firdous,310
+2026-11-18,Chips,Chips,72
+2026-11-19,Family,Family,140
+2026-11-19,Bakery,Bakery,287
+2026-11-19,Rawabi,Rawabi,1080
+2026-11-19,Cheese,Cheese,264
+2026-11-19,PT,PT,20
+2026-11-20,Rawabi,Rawabi,100
+2026-11-20,Mijan salary,SALARY: Mijan,200
+2026-11-20,Chips,Chips,415
+2026-11-20,PT,PT,62
+2026-11-20,Panasonic blender,Panasonic blender,289
+2026-11-20,Samosa,Samosa,186
+2026-11-20,Family,Family,30
+2026-11-20,Family,Family,79
